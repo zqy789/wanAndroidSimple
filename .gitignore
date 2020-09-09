@@ -83,3 +83,9 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+/app/
+/settings.gradle
+/gradle.properties
+/.gitignore
+/build.gradle
+/app/
