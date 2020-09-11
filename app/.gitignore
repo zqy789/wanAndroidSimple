@@ -88,4 +88,4 @@ lint/tmp/
 /gradle.properties
 /.gitignore
 /build.gradle
-/app/
+
